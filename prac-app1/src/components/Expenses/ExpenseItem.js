@@ -1,5 +1,5 @@
 import './ExpenseItem.css';
-import ExpenseDate from './ExpenseDate';
+import ExpenseDate from '../Expenses/ExpenseDate'
 function ExpenseItem (props) {
     //  const expenseDate= new Date();
     //  const expenseTitle='Mobile LED Replacement';

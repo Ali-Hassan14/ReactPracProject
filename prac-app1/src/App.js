@@ -1,5 +1,5 @@
 // import './App.css';
-import ExpensesItems from "./components/ExpensesItems";
+import ExpensesItems from "./components/Expenses/ExpensesItems";
 function App() {
   
   return (
